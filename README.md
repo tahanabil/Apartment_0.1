@@ -3,6 +3,9 @@ Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr)
 
 - Course: VR Scenes & Objects
 - Project: Build an Apartment
+- Author name : Taha Elaarag
+- Project summary :
+This project help soild basic unity modiling , lighting , camera use,matrials ad finaly animation , main projected provided by Udacity , while i just made requested modification on it
 
 
 ### Versions Used
